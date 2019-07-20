@@ -1,8 +1,8 @@
 # go-pass
 Password generator command line tool in Go.
 
-# Installation
-1. Clone this repo
+## Installation
+1. `go get github.com/NoahBraam/go-pass`
 2. Go to this repo and type `go install`
 
 ## Usage
